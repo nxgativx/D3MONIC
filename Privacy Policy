@@ -1,0 +1,114 @@
+## 1. Overview
+
+This Privacy Policy explains how D3MONIC (“Bot”) collects, uses, and stores data in compliance with:
+
+* Discord Developer Terms
+* Hypixel API policies
+
+---
+
+## 2. Data We Collect
+
+### a) Discord Data
+
+* User ID
+* Username & discriminator
+* Server ID
+* Roles (for permission checks)
+
+### b) Minecraft / Hypixel Data
+
+* UUID
+* In-game name
+* Public stats (Bedwars, guild, etc.)
+* Social media links (if publicly linked on Hypixel)
+
+### c) Verification Data
+
+* Discord ID ↔ Minecraft UUID mapping
+
+---
+
+## 3. How We Use Data
+
+We use collected data to:
+
+* Provide bot features (stats, verification, leaderboards)
+* Link Discord accounts to Minecraft accounts
+* Run giveaways and assign roles
+* Improve functionality and performance
+
+We DO NOT:
+
+* Sell user data
+* Share private data with third parties
+
+---
+
+## 4. Data Storage
+
+* Data may be stored in databases (e.g., MongoDB)
+* Stored securely and only accessible by the bot owner
+* Some data is temporary (API responses)
+
+---
+
+## 5. Data Retention
+
+We retain data:
+
+* As long as necessary for functionality
+* Until a user requests removal
+* Or until the bot is discontinued
+
+---
+
+## 6. User Rights
+
+You may:
+
+* Request removal of your data
+* Stop using the Bot at any time
+
+To request deletion, contact the bot owner.
+
+---
+
+## 7. Third-Party Services
+
+This Bot uses:
+
+* Discord API → https://discord.com/terms
+* Hypixel API → https://api.hypixel.net/
+
+We are not responsible for how these services handle data.
+
+---
+
+## 8. Security
+
+We take reasonable measures to:
+
+* Protect stored data
+* Prevent unauthorized access
+
+However, no system is 100% secure.
+
+---
+
+## 9. Children’s Privacy
+
+The Bot is not intended for users under 13.
+
+---
+
+## 10. Changes to Policy
+
+This Privacy Policy may be updated at any time. Continued use = acceptance.
+
+---
+
+## 11. Contact
+
+Discord: nxgativx
+Server: https://discord.gg/darx
